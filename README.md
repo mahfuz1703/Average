@@ -1,1 +1,1 @@
-# Average
+# Average by c programming language
